@@ -10,7 +10,7 @@ h1 {
   color: white;
   margin: 1.5em 4em 1em 4em;
   font-family: 'MerryChristmas';
-  font-size: 100px;
+  font-size: 60px;
   font-weight: 10;
   text-align: center;
 }
@@ -36,7 +36,6 @@ h1 {
 @media screen and (max-width: 601px) {
   h1 {
     margin: 1em;
-    font-size: 40px;
   }
 
   .container > img {
@@ -46,7 +45,7 @@ h1 {
 
 @media screen and (max-width: 404px) {
   h1 {
-    font-size: 30px;
+    margin: 0.5em;
   }
 
   .container > img {
