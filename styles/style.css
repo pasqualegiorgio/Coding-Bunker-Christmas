@@ -1,3 +1,7 @@
+@font-face { font-family: MerryChristmas; src: url('fonts/MerryChristmasFlake.ttf'); } 
+
+
+
 body {
   background-color: #E40010;
 }
@@ -5,8 +9,9 @@ body {
 h1 {
   color: white;
   margin: 1.5em 4em 1em 4em;
-  font-family: 'Courgette', cursive;
-  font-size: 60px;
+  font-family: 'MerryChristmas';
+  font-size: 100px;
+  font-weight: 10;
   text-align: center;
 }
 
